@@ -48,7 +48,11 @@ open class CocoaMQTTMessage: NSObject {
  * MQTT Will Message
  */
 open class CocoaMQTTWill: CocoaMQTTMessage {
-    public init(topic: String, message: String) {
-        super.init(topic: topic, payload: message.bytesWithLength)
+    public convenience init(topic: String, message: String) {
+        self.init(topic: topic, payload: message.bytesWithLength)
+    }
+    
+    public init(topic: String, payload: [UInt8]) {
+        super.init(topic: topic, payload: payload)
     }
 }
