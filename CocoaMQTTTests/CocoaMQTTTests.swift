@@ -161,7 +161,7 @@ class CocoaMQTTTests: XCTestCase, CocoaMQTTDelegate {
 // tools
 
 private func randomCode(length: Int) -> String {
-    let base62chars = [Character]("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz".characters)
+    let base62chars = [Character]("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
     var code = ""
     for _ in 0..<length {
         let random = Int(arc4random_uniform(62))

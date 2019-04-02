@@ -81,7 +81,7 @@
 
 /* Begin PBXFileReference section */
 		002D5952D349572951836FFD1D4B79C2 /* Pods-CocoaMQTT tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CocoaMQTT tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		01505DA642CACDEAA38A636040B08028 /* Pods_CocoaMQTT_OSX.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CocoaMQTT_OSX.framework; path = "Pods-CocoaMQTT OSX.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01505DA642CACDEAA38A636040B08028 /* Pods_CocoaMQTT_OSX.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CocoaMQTT_OSX.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		02E8BEF0E928F4BB42D9676FAADE515C /* Pods-CocoaMQTT OSX-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CocoaMQTT OSX-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0C6BCB89FDB611DA337F40C57FF062A1 /* Pods-CocoaMQTT tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CocoaMQTT tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		0D8677A7099E627DED5FF8C4D2E1BAE4 /* Pods-CocoaMQTT iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CocoaMQTT iOS.debug.xcconfig"; sourceTree = "<group>"; };
@@ -98,11 +98,11 @@
 		324AB25E140E5A813618E13AF7887D96 /* Pods-CocoaMQTT iOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CocoaMQTT iOSTests.modulemap"; sourceTree = "<group>"; };
 		329638AB13E407795BE6227F3901D151 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		48132297037B760C79D5E1969B6FDA4F /* GCDAsyncSocket.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GCDAsyncSocket.m; path = Source/GCD/GCDAsyncSocket.m; sourceTree = "<group>"; };
-		53020CE555C047F7C5BB4E8FC0DF8656 /* Pods_CocoaMQTT_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CocoaMQTT_tvOS.framework; path = "Pods-CocoaMQTT tvOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53020CE555C047F7C5BB4E8FC0DF8656 /* Pods_CocoaMQTT_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CocoaMQTT_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		53B5ECC42CF37577717C240B24B2C512 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../CocoaAsyncSocket-macOS/Info.plist"; sourceTree = "<group>"; };
 		555FEF805619987D0534DA3C5EC9D47C /* CocoaAsyncSocket-tvOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CocoaAsyncSocket-tvOS-prefix.pch"; path = "../CocoaAsyncSocket-tvOS/CocoaAsyncSocket-tvOS-prefix.pch"; sourceTree = "<group>"; };
 		564347B2475FC139BA324A2D4339B021 /* GCDAsyncUdpSocket.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GCDAsyncUdpSocket.m; path = Source/GCD/GCDAsyncUdpSocket.m; sourceTree = "<group>"; };
-		5BE40DA935231C1849B85DD347E9E232 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CocoaAsyncSocket.framework; path = "CocoaAsyncSocket-macOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BE40DA935231C1849B85DD347E9E232 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaAsyncSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CFB6C15FB1F3D1F41F4252483CA8738 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5F9E2DE66259D390B9D1FA933954EE6C /* CocoaAsyncSocket-macOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "CocoaAsyncSocket-macOS.xcconfig"; path = "../CocoaAsyncSocket-macOS/CocoaAsyncSocket-macOS.xcconfig"; sourceTree = "<group>"; };
 		60AE446CB10D983E7A9B673FEEB7593C /* Pods-CocoaMQTT iOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CocoaMQTT iOSTests-frameworks.sh"; sourceTree = "<group>"; };
@@ -117,22 +117,22 @@
 		8747B8E2BB5450A7B70EDE9A6B8865DC /* Pods-CocoaMQTT OSX-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CocoaMQTT OSX-umbrella.h"; sourceTree = "<group>"; };
 		8D422601CCAD63235FB18D1925DA1E6B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D5EF3DA22821961FFCE624B1FC78421 /* Pods-CocoaMQTT OSX.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CocoaMQTT OSX.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		975091040CFE43A56916030F3D1EDA6B /* CocoaAsyncSocket-macOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CocoaAsyncSocket-macOS-prefix.pch"; path = "../CocoaAsyncSocket-macOS/CocoaAsyncSocket-macOS-prefix.pch"; sourceTree = "<group>"; };
 		9EF6E357E5D2B95A7D75476C0B76AD55 /* Pods-CocoaMQTT tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CocoaMQTT tvOS-resources.sh"; sourceTree = "<group>"; };
 		A565D6FABE1F9B0ADF29B7D580088F34 /* Pods-CocoaMQTT OSX-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CocoaMQTT OSX-resources.sh"; sourceTree = "<group>"; };
 		A6F05C6F744DF5D220CD3954D1AB2052 /* CocoaAsyncSocket-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "CocoaAsyncSocket-iOS.modulemap"; sourceTree = "<group>"; };
 		A75856684200DC3F47C434771C52964C /* Pods-CocoaMQTT iOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CocoaMQTT iOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		A866FC8A2FD07013741CF6A2B69E65F9 /* CocoaAsyncSocket-macOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CocoaAsyncSocket-macOS-umbrella.h"; path = "../CocoaAsyncSocket-macOS/CocoaAsyncSocket-macOS-umbrella.h"; sourceTree = "<group>"; };
-		AE420A46BD7DA7E38F1FFAC051933950 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CocoaAsyncSocket.framework; path = "CocoaAsyncSocket-tvOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE420A46BD7DA7E38F1FFAC051933950 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaAsyncSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFC3AF2426D0DB08789F73AD2A3EF586 /* Pods-CocoaMQTT OSX.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CocoaMQTT OSX.release.xcconfig"; sourceTree = "<group>"; };
 		B0A9EB508AA91131F9EA9F436375CC58 /* Pods-CocoaMQTT iOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CocoaMQTT iOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B5A31411AF231C59DC680547DD26AA06 /* CocoaAsyncSocket-tvOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CocoaAsyncSocket-tvOS-umbrella.h"; path = "../CocoaAsyncSocket-tvOS/CocoaAsyncSocket-tvOS-umbrella.h"; sourceTree = "<group>"; };
 		B6974C19C358A844FAFA37A74DA253A5 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CFNetwork.framework; sourceTree = DEVELOPER_DIR; };
-		B9BB8EB51EB245CB6A68A052C81FCFAC /* Pods_CocoaMQTT_iOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CocoaMQTT_iOSTests.framework; path = "Pods-CocoaMQTT iOSTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9BB8EB51EB245CB6A68A052C81FCFAC /* Pods_CocoaMQTT_iOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CocoaMQTT_iOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9F78A440E75EBC113B3F18F7446F37A /* Pods-CocoaMQTT iOSTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CocoaMQTT iOSTests-umbrella.h"; sourceTree = "<group>"; };
 		BB31E563231C7CAF214FA202E3694928 /* Pods-CocoaMQTT iOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CocoaMQTT iOSTests-dummy.m"; sourceTree = "<group>"; };
-		C4172B691612E78B73249555A2F03BA4 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CocoaAsyncSocket.framework; path = "CocoaAsyncSocket-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4172B691612E78B73249555A2F03BA4 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaAsyncSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C631F845CB8285510DB5E4B4228635EE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7DC7B78E6F582D62A4BDAA94A4C3067 /* Pods-CocoaMQTT iOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CocoaMQTT iOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		CA7FCB2BAFEE63B19D648FCC837317EA /* Pods-CocoaMQTT iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CocoaMQTT iOS-dummy.m"; sourceTree = "<group>"; };
@@ -153,7 +153,7 @@
 		F5163B428CCF8DA6CA7415F8E6E6FE1D /* Pods-CocoaMQTT tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CocoaMQTT tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F7300955A692A032DEECDD4F427F39FA /* CocoaAsyncSocket-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CocoaAsyncSocket-iOS-prefix.pch"; sourceTree = "<group>"; };
 		FCB59443A9BE6600E4189FE4698B5256 /* Pods-CocoaMQTT iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CocoaMQTT iOS.modulemap"; sourceTree = "<group>"; };
-		FEE930AD3478338161BF82C0B81E3A79 /* Pods_CocoaMQTT_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CocoaMQTT_iOS.framework; path = "Pods-CocoaMQTT iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEE930AD3478338161BF82C0B81E3A79 /* Pods_CocoaMQTT_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CocoaMQTT_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF39B671B912B80A16A6140CBA9F97B3 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		FFBF3D70D5E72BA229F6F108C70EF7BF /* Pods-CocoaMQTT OSX-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CocoaMQTT OSX-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -278,7 +278,6 @@
 				564347B2475FC139BA324A2D4339B021 /* GCDAsyncUdpSocket.m */,
 				C735E59A61391DCCD96D2284636309E8 /* Support Files */,
 			);
-			name = CocoaAsyncSocket;
 			path = CocoaAsyncSocket;
 			sourceTree = "<group>";
 		};
@@ -614,14 +613,15 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1020;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = 87E26E1518241C5D0A247443E82B149B /* Products */;
@@ -1128,6 +1128,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1221,6 +1222,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
